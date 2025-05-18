@@ -23,5 +23,5 @@ This project aims to automate the process of assessing a borrower's creditworthi
 - **Python 3.11.9**
 - **Pandas, NumPy, Scikit-learn, Streamlit**
 - **Streamlit**
-- **Jupyter Notebook** (for exploration & EDA)
+- **Jupyter Notebook** 
 - **Joblib** (for model saving)
