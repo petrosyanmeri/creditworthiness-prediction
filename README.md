@@ -21,7 +21,7 @@ This project aims to automate the process of assessing a borrower's creditworthi
 ## 🛠 Tech Stack
 
 - **Python 3.11.9**
-- **Pandas, NumPy, Scikit-learn, Streamlit**
+- **Pandas, NumPy, Scikit-learn**
 - **Streamlit**
 - **Jupyter Notebook** 
 - **Joblib** (for model saving)
